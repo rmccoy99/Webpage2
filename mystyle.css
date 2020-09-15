@@ -3,7 +3,19 @@ body {
 }
 h1 {
   color: #660022;
+  text-shadow: 1px 1px;
 }
 p {
   color: #008060;
+}
+#abc {
+  background-color: #808080;
+  width: 500px;
+  border-style: solid;
+  border-color: #660022;
+  border-width: 5px;
+  border-radius: 15px;
+  padding: 50px;
+  margin: 50px;
+  box-shadow: 10px 10px 5px #660022;
 }
