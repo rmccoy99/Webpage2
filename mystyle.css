@@ -2,14 +2,14 @@ body {
   background-color: #ffffe6;
 }
 h1 {
-  color: #660022;
-  text-shadow: 1px 1px;
+  color: #cccccc;
+  text-shadow: 2px 2px 4px #000000;
 }
 p {
   color: #008060;
 }
 #abc {
-  background-color: #808080;
+  background-color: #cccccc;
   width: 500px;
   border-style: solid;
   border-color: #660022;
